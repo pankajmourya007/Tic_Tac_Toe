@@ -1,4 +1,3 @@
-Sure, here's a template for a README file for your Tic-Tac-Toe web page game:
 
 # Tic-Tac-Toe Web Page Game
 
@@ -18,7 +17,7 @@ Welcome to the Tic-Tac-Toe Web Page Game! This is a simple and classic game wher
 
 ## Demo
 
-[Insert link to live demo here]
+[Tic-Tac-Toe](https://tic-tak-toev1.netlify.app/)
 
 ## Features
 
