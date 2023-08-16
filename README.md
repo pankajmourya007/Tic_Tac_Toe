@@ -39,13 +39,13 @@ Welcome to the Tic-Tac-Toe Web Page Game! This is a simple and classic game wher
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-web-game.git
+   git clone https://github.com/pankajmourya007/Tic_Tac_Toe.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tic-tac-toe-web-game
+   cd Tic_Tac_Toe
    ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy playing the Tic-Tac-Toe Web Page Game! If you encounter any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/your-username/tic-tac-toe-web-game/issues).
+Enjoy playing the Tic-Tac-Toe Web Page Game! If you encounter any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/pankajmourya007/Tic_Tac_Toe/issues).
