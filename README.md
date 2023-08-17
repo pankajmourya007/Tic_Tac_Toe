@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Web Page Game
 
-Welcome to the Tic-Tac-Toe Web Page Game! This is a simple and classic game where two players take turns marking spaces in a 3x3 grid, aiming to get three of their marks in a row, column, or diagonal.
+Welcome to the ```Tic-Tac-Toe``` Web Page Game! This is a simple and classic game where two players take turns marking spaces in a 3x3 grid, aiming to get three of their marks in a row, column, or diagonal.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ Welcome to the Tic-Tac-Toe Web Page Game! This is a simple and classic game wher
 ## How to Play
 
 1. Open the game in your web browser.
-2. Two players take turns clicking on empty squares to place their mark (X or O).
+2. Two players take turns clicking on empty squares to place their mark `X or O`.
 3. The first player to get three of their marks in a row, column, or diagonal wins.
 4. If all squares are filled and no player has three marks in a row, the game ends in a draw.
 
